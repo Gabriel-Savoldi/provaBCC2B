@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Gabriel-Savoldi/provaBCC2B/static/css/main.d221dc40.css",
+    "main.js": "/Gabriel-Savoldi/provaBCC2B/static/js/main.2f17fe18.js",
+    "static/media/pagina404.png": "/Gabriel-Savoldi/provaBCC2B/static/media/pagina404.4bf0805d8d55a31c5142.png",
+    "index.html": "/Gabriel-Savoldi/provaBCC2B/index.html",
+    "main.d221dc40.css.map": "/Gabriel-Savoldi/provaBCC2B/static/css/main.d221dc40.css.map",
+    "main.2f17fe18.js.map": "/Gabriel-Savoldi/provaBCC2B/static/js/main.2f17fe18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.2f17fe18.js"
+  ]
+}

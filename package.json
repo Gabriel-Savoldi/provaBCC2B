@@ -1,7 +1,7 @@
 {
   "name": "sistema",
   "version": "0.1.0",
-  "homepage": "hhttps://Gabriel-Savoldi.github.io/provaBCC2B",
+  "homepage": "https://gabriel-savoldi.github.io/provaBCC2B/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.4.0",
